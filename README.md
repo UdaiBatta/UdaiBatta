@@ -96,11 +96,14 @@
 
 <div align="center">
 
-![Udai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UdaiBatta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<a href="https://github.com/UdaiBatta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UdaiBatta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaiBatta&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdaiBatta&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=UdaiBatta&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UdaiBatta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -110,7 +113,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=UdaiBatta&theme=tokyonight&no-frame=true&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=UdaiBatta&theme=tokyonight&no-frame=true&column=7&margin-w=4)
 
 </div>
 
