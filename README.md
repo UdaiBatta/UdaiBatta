@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080C16,40:1E1B4B,72:7C3AED,100:00D9FF&text=UDAI%20BATTA&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=57&descSize=16&animation=fadeIn" alt="Udai Batta — Backend Developer and System Builder" />
 
-<img width="290" src="./assets/udai-pixel-avatar-v2.png" alt="Pixel art portrait of Udai Batta wearing spectacles in a voxel developer workspace" />
+<img width="290" src="./assets/udai-pixel-avatar.png" alt="Pixel art portrait of Udai Batta wearing spectacles" />
 
 <br />
 
