@@ -91,7 +91,7 @@ location: Patiala, Punjab, India
 
 <br /><br />
 
-<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UdaiBatta&theme=github_dark" alt="Live top languages by repository" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UdaiBatta&theme=github_dark&exclude=Jupyter%20Notebook" alt="Live top languages by commit activity, excluding notebook metadata" />
 
 </div>
 
