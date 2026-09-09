@@ -22,37 +22,32 @@
 
 ## 🧑‍💻 About Me
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```text
 udai@patiala:~$ whoami
-> backend dev building APIs, full-stack apps & data-driven systems.
-> python & django by day, react when i have to.
-> exploring AI workflows, trading systems & architecture backends.
-> BE @ Thapar Institute of Engineering & Technology (2024–2027).
-> location: patiala, punjab, india 🇮🇳
+> backend dev · APIs, full-stack apps & data systems
+> python & django by day, react when i have to
+> exploring AI workflows, trading & architecture
+> BE @ Thapar Institute (2024–2027) 🇮🇳
 ```
 
-I'm a sophomore at **Thapar Institute** who fell hard for back-end engineering — the part of the stack where decisions actually compound. Most of my time goes into shipping Python/Django services, sketching out trading systems on paper before they become code, and chasing that satisfying feeling when a 300ms endpoint drops to 90ms. I learn best by building end-to-end things: I don't just write the API, I also write the bot that hammers it, the schema that survives it, and the backtest that proves it was worth shipping.
+</td>
+<td width="45%" valign="top">
 
-When I'm not in an editor I'm usually reading system-design writeups, breaking down someone else's GitHub repo to see how the gears fit, or trying (and mostly failing) to make my crypto bot print money instead of burning it.
+📌 **Patiala, Punjab**  
+🎓 **Sophomore @ Thapar**  
+🔧 **Python · Django · REST**  
+🤖 **Trading bots & AI on the side**  
+📚 **Async Python + system design rn**  
 
----
-
-## 🚧 Currently Building
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>🤖 Crypto Trading Bot</b><br/>
-      <sub>Refining the ML signal filter & adding a paper-trading mode</sub><br/>
-      <a href="https://github.com/UdaiBatta/CLI-Binance-Bot"><img src="https://img.shields.io/badge/track-CLI--Binance--Bot-3776AB?style=flat-square&logo=github"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <b>🏛️ ArchiAI Backend</b><br/>
-      <sub>Adding design-cache layer + job priority queue</sub><br/>
-      <a href="https://github.com/UdaiBatta/ArchiAI"><img src="https://img.shields.io/badge/track-ArchiAI-092E20?style=flat-square&logo=github"/></a>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
+
+I learn by building end-to-end — I don't just ship the API, I also write the bot that hammers it, the schema that survives it, and the backtest that proves it was worth shipping.
 
 ---
 
@@ -204,6 +199,24 @@ When I'm not in an editor I'm usually reading system-design writeups, breaking d
 🔥 my hot take on "microservices for everything"
 📺 the one C++ project I'd like to revisit someday
 ```
+
+---
+
+## 🎧 Now Vibing
+
+<div align="center">
+
+<!-- Make it live: deploy https://github.com/novatorem/novatorem on Vercel
+     (needs a Spotify client ID + secret), then swap the URL below.
+     Until then this shows as a broken image — comment out the <img> if you'd
+     rather hide it until deployment is done. -->
+<a href="https://open.spotify.com/user/your-spotify-username">
+  <img src="https://spotify-now-playing.vercel.app/api/spotify-playing"
+       alt="Spotify Now Playing"
+       width="480" />
+</a>
+
+</div>
 
 ---
 
