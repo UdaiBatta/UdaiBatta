@@ -81,13 +81,13 @@ location: Patiala, Punjab, India
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=UdaiBatta&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=22C55E&text_color=C9D1D9" alt="GitHub stars, commits, pull requests, and issues" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UdaiBatta&theme=github_dark" alt="Live GitHub stars, commits, pull requests, issues, and contributions" />
 &nbsp;
 <img height="185" src="https://streak-stats.demolab.com?user=UdaiBatta&hide_border=true&background=0D1117&border=30363D&stroke=00D9FF&ring=7C3AED&fire=22C55E&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
 <br /><br />
 
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaiBatta&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most-used languages" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UdaiBatta&theme=github_dark" alt="Live top languages by repository" />
 
 </div>
 
