@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="590" viewBox="0 0 1000 590" role="img" aria-labelledby="title desc">
+  <title id="title">Udai Batta featured projects</title>
+  <desc id="desc">Four pixel-style cards for CLI Binance Bot, ArchiAI, Skylearn LMS, and FLUNKER.</desc>
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00d9ff"/>
+      <stop offset="0.5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#22c55e"/>
+    </linearGradient>
+    <linearGradient id="cardA" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#141b2d"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="cardB" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1b1535"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="590" rx="24" fill="#080c16"/>
+  <rect x="2" y="2" width="996" height="586" rx="22" fill="none" stroke="url(#frame)" stroke-width="4"/>
+
+  <g fill="#00d9ff" opacity=".2">
+    <rect x="28" y="28" width="8" height="8"/><rect x="44" y="28" width="8" height="8"/><rect x="60" y="28" width="8" height="8"/>
+    <rect x="932" y="554" width="8" height="8"/><rect x="948" y="554" width="8" height="8"/><rect x="964" y="554" width="8" height="8"/>
+  </g>
+
+  <text x="50" y="55" fill="#8b949e" font-family="Consolas, monospace" font-size="15">PROJECT DIRECTORY</text>
+  <text x="950" y="55" fill="#22c55e" font-family="Consolas, monospace" font-size="14" text-anchor="end">● 4 BUILDS ONLINE</text>
+
+  <g transform="translate(38 82)">
+    <rect width="448" height="210" rx="16" fill="url(#cardA)" stroke="#263653" stroke-width="2"/>
+    <rect x="0" y="0" width="8" height="210" rx="4" fill="#00d9ff"/>
+    <rect x="28" y="26" width="44" height="44" rx="8" fill="#00d9ff" opacity=".14"/>
+    <path d="M39 49h22M43 42h14M43 56h14" stroke="#00d9ff" stroke-width="4" stroke-linecap="square"/>
+    <text x="88" y="45" fill="#f0f6fc" font-family="Consolas, monospace" font-weight="700" font-size="23">CLI Binance Bot</text>
+    <text x="88" y="67" fill="#00d9ff" font-family="Consolas, monospace" font-size="13">TRADING SYSTEMS</text>
+    <text x="28" y="106" fill="#b8c1cf" font-family="Consolas, monospace" font-size="15">Fast market monitoring, order routing,</text>
+    <text x="28" y="130" fill="#b8c1cf" font-family="Consolas, monospace" font-size="15">backtesting and ML signal filtering.</text>
+    <g font-family="Consolas, monospace" font-size="12" fill="#dbeafe">
+      <rect x="28" y="158" width="70" height="27" rx="5" fill="#162c44"/><text x="63" y="176" text-anchor="middle">PYTHON</text>
+      <rect x="108" y="158" width="68" height="27" rx="5" fill="#162c44"/><text x="142" y="176" text-anchor="middle">PANDAS</text>
+      <rect x="186" y="158" width="52" height="27" rx="5" fill="#162c44"/><text x="212" y="176" text-anchor="middle">ML</text>
+    </g>
+  </g>
+
+  <g transform="translate(514 82)">
+    <rect width="448" height="210" rx="16" fill="url(#cardB)" stroke="#392c62" stroke-width="2"/>
+    <rect x="0" y="0" width="8" height="210" rx="4" fill="#a78bfa"/>
+    <rect x="28" y="26" width="44" height="44" rx="8" fill="#a78bfa" opacity=".14"/>
+    <path d="M39 57V41h22v16M45 57V47h10v10" fill="none" stroke="#a78bfa" stroke-width="4"/>
+    <text x="88" y="45" fill="#f0f6fc" font-family="Consolas, monospace" font-weight="700" font-size="23">ArchiAI</text>
+    <text x="88" y="67" fill="#a78bfa" font-family="Consolas, monospace" font-size="13">AI DESIGN BACKEND</text>
+    <text x="28" y="106" fill="#b8c1cf" font-family="Consolas, monospace" font-size="15">Natural language into structured design</text>
+    <text x="28" y="130" fill="#b8c1cf" font-family="Consolas, monospace" font-size="15">workflows, jobs and exportable results.</text>
+    <g font-family="Consolas, monospace" font-size="12" fill="#ede9fe">
+      <rect x="28" y="158" width="70" height="27" rx="5" fill="#2a2146"/><text x="63" y="176" text-anchor="middle">DJANGO</text>
+      <rect x="108" y="158" width="52" height="27" rx="5" fill="#2a2146"/><text x="134" y="176" text-anchor="middle">REST</text>
+      <rect x="170" y="158" width="52" height="27" rx="5" fill="#2a2146"/><text x="196" y="176" text-anchor="middle">NLP</text>
+    </g>
+  </g>
+
+  <g transform="translate(38 316)">
+    <rect width="448" height="210" rx="16" fill="url(#cardB)" stroke="#3d3852" stroke-width="2"/>
+    <rect x="0" y="0" width="8" height="210" rx="4" fill="#f59e0b"/>
+    <rect x="28" y="26" width="44" height="44" rx="8" fill="#f59e0b" opacity=".14"/>
+    <path d="M39 42h22v18H39zM44 38h12M45 48h10" fill="none" stroke="#f59e0b" stroke-width="4"/>
+    <text x="88" y="45" fill="#f0f6fc" font-family="Consolas, monospace" font-weight="700" font-size="23">Skylearn LMS</text>
+    <text x="88" y="67" fill="#fbbf24" font-family="Consolas, monospace" font-size="13">LEARNING PLATFORM</text>
+    <text x="28" y="106" fill="#b8c1cf" font-family="Consolas, monospace" font-size="15">Role-based courses, enrollments and</text>
+    <text x="28" y="130" fill="#b8c1cf" font-family="Consolas, monospace" font-size="15">token-authenticated API workflows.</text>
+    <g font-family="Consolas, monospace" font-size="12" fill="#fef3c7">
+      <rect x="28" y="158" width="70" height="27" rx="5" fill="#3f2d16"/><text x="63" y="176" text-anchor="middle">DJANGO</text>
+      <rect x="108" y="158" width="60" height="27" rx="5" fill="#3f2d16"/><text x="138" y="176" text-anchor="middle">REACT</text>
+      <rect x="178" y="158" width="94" height="27" rx="5" fill="#3f2d16"/><text x="225" y="176" text-anchor="middle">POSTGRES</text>
+    </g>
+  </g>
+
+  <g transform="translate(514 316)">
+    <rect width="448" height="210" rx="16" fill="url(#cardA)" stroke="#244a3b" stroke-width="2"/>
+    <rect x="0" y="0" width="8" height="210" rx="4" fill="#22c55e"/>
+    <rect x="28" y="26" width="44" height="44" rx="8" fill="#22c55e" opacity=".14"/>
+    <path d="M39 41h22v19H39zM44 47h3M54 47h3M45 55h10" fill="none" stroke="#22c55e" stroke-width="4"/>
+    <text x="88" y="45" fill="#f0f6fc" font-family="Consolas, monospace" font-weight="700" font-size="23">FLUNKER</text>
+    <text x="88" y="67" fill="#4ade80" font-family="Consolas, monospace" font-size="13">SOCIAL PLATFORM</text>
+    <text x="28" y="106" fill="#b8c1cf" font-family="Consolas, monospace" font-size="15">A Django sandbox for relationships,</text>
+    <text x="28" y="130" fill="#b8c1cf" font-family="Consolas, monospace" font-size="15">signals, forms and admin workflows.</text>
+    <g font-family="Consolas, monospace" font-size="12" fill="#dcfce7">
+      <rect x="28" y="158" width="70" height="27" rx="5" fill="#183a2a"/><text x="63" y="176" text-anchor="middle">DJANGO</text>
+      <rect x="108" y="158" width="66" height="27" rx="5" fill="#183a2a"/><text x="141" y="176" text-anchor="middle">SQLITE</text>
+      <rect x="184" y="158" width="70" height="27" rx="5" fill="#183a2a"/><text x="219" y="176" text-anchor="middle">PYTHON</text>
+    </g>
+  </g>
+
+  <rect x="38" y="548" width="924" height="3" fill="url(#frame)" opacity=".65" filter="url(#glow)"/>
+  <text x="500" y="575" fill="#6e7681" font-family="Consolas, monospace" font-size="12" text-anchor="middle">SELECT A BUILD → UDAIBATTA.GITHUB.IO/UDAI-PORTFOLIO</text>
+</svg>
+
