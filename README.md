@@ -71,13 +71,13 @@ location: Patiala, Punjab, India
   </tr>
   <tr>
     <td><a href="https://github.com/UdaiBatta/Cree"><img width="100%" src="./assets/project-cards/cree.svg" alt="CREE repository" /></a></td>
-    <td></td>
+    <td><a href="https://github.com/UdaiBatta/FLUNKER-Django-social-media"><img width="100%" src="./assets/project-cards/flunker.svg" alt="FLUNKER repository" /></a></td>
   </tr>
 </table>
 
 <br /><br />
 
-<sub>More builds: <a href="https://github.com/UdaiBatta/CLI-Binance-Bot">CLI Binance Bot</a> - <a href="https://github.com/UdaiBatta/udai-portfolio">Portfolio</a> - <a href="https://github.com/UdaiBatta/Skylearn-LMS">SkyLearn LMS</a> - <a href="https://github.com/UdaiBatta/FLUNKER-Django-social-media">FLUNKER</a></sub>
+<sub>More builds: <a href="https://github.com/UdaiBatta/CLI-Binance-Bot">CLI Binance Bot</a> - <a href="https://github.com/UdaiBatta/udai-portfolio">Portfolio</a> - <a href="https://github.com/UdaiBatta/Skylearn-LMS">SkyLearn LMS</a></sub>
 
 </div>
 
