@@ -69,6 +69,10 @@ location: Patiala, Punjab, India
     <td><a href="https://github.com/UdaiBatta/sign_language_detector"><img width="100%" src="./assets/project-cards/asl-detector.svg" alt="ASL Detector repository" /></a></td>
     <td><a href="https://github.com/UdaiBatta/ArchiAI"><img width="100%" src="./assets/project-cards/archiai.svg" alt="ArchiAI repository" /></a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/UdaiBatta/Cree"><img width="100%" src="./assets/project-cards/cree.svg" alt="CREE repository" /></a></td>
+    <td></td>
+  </tr>
 </table>
 
 <br /><br />
