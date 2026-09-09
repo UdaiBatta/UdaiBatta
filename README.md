@@ -22,17 +22,11 @@
 
 ## 🧑‍💻 About Me
 
-```text
-┌─ udai@patiala ───────────────────────────────────┐
-│  role      → backend dev · python / django       │
-│  year      → sophomore @ thapar (2024–2027)      │
-│  location  → patiala, punjab 🇮🇳                  │
-│  focus     → trading bots · AI workflows         │
-│  learning  → system design · celery · redis      │
-└──────────────────────────────────────────────────┘
-```
-
-I build end-to-end — not just the API, but the schema that survives it and the backtest that proves it was worth shipping. Lately most of my time goes into Django services, sketching trading systems before they become code, and chasing the moment a 300ms endpoint drops to 90ms. When I'm not coding, I'm reading someone else's architecture writeup or trying to make my crypto bot print money instead of burning it.
+- 🎓 **BE @ Thapar Institute of Engineering & Technology** (2024–2027)
+- 🔧 Back-end focused developer building **APIs, full-stack apps & data-driven systems**
+- 🤖 Exploring **AI workflows, trading systems & architecture backends**
+- 🐍 Python & Django by day, React when I have to
+- 📍 Patiala, Punjab, India
 
 ---
 
