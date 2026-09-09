@@ -67,10 +67,14 @@ location: Patiala, Punjab, India
 
 <div align="center">
 
-[CLI Binance Bot](https://github.com/UdaiBatta/CLI-Binance-Bot) ·
-[ArchiAI](https://github.com/UdaiBatta/ArchiAI) ·
-[Skylearn LMS](https://github.com/UdaiBatta/Skylearn-LMS) ·
-[FLUNKER](https://github.com/UdaiBatta/FLUNKER-Django-social-media)
+[LedgerLens](https://github.com/UdaiBatta/LedgerLens) ·
+[Monika ERP/CRM](https://github.com/UdaiBatta/monika-eng-CRM) ·
+[Shunya API Testing](https://github.com/UdaiBatta/API-automation-testing) ·
+[Monika Engineers](https://github.com/UdaiBatta/monika-engineers) ·
+[ASL Detector](https://github.com/UdaiBatta/sign_language_detector) ·
+[Portfolio](https://github.com/UdaiBatta/udai-portfolio)
+
+<sub>More builds: <a href="https://github.com/UdaiBatta/CLI-Binance-Bot">CLI Binance Bot</a> · <a href="https://github.com/UdaiBatta/ArchiAI">ArchiAI</a> · <a href="https://github.com/UdaiBatta/Skylearn-LMS">Skylearn LMS</a> · <a href="https://github.com/UdaiBatta/FLUNKER-Django-social-media">FLUNKER</a></sub>
 
 </div>
 
