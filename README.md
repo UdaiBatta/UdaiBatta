@@ -71,9 +71,7 @@ location: Patiala, Punjab, India
 
 ## `> featured_projects`
 
-<a href="https://udaibatta.github.io/udai-portfolio/">
-  <img width="100%" src="./assets/project-showcase.svg" alt="Pixel-style showcase of Udai Batta's featured projects" />
-</a>
+<img width="100%" src="./assets/project-showcase.svg" alt="Pixel-style showcase of Udai Batta's featured projects" />
 
 <div align="center">
 
