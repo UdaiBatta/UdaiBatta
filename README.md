@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080C16,40:1E1B4B,72:7C3AED,100:00D9FF&text=UDAI%20BATTA&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=57&descSize=16&animation=fadeIn" alt="Udai Batta — Backend Developer and System Builder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080C16,40:1E1B4B,72:7C3AED,100:00D9FF&text=UDAI%20BATTA&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=BACKEND%20DEVELOPER%20%E2%80%A2%20SYSTEM%20BUILDER&descAlignY=57&descSize=16&animation=fadeIn" alt="Udai Batta - Backend Developer and System Builder" />
 
-<img width="290" src="./assets/udai-pixel-avatar.png" alt="Pixel art portrait of Udai Batta wearing spectacles" />
+<img width="290" src="./assets/udai-pixel-avatar.png" alt="Pixel-art portrait of Udai Batta" />
 
 <br />
 
@@ -21,23 +21,6 @@
 </a>
 
 </div>
-<br />
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=UdaiBatta&theme=crt&include_all_commits=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://pixel-profile.vercel.app/api/github-stats?username=UdaiBatta&theme=summer"
-  />
-  <img
-    width="100%"
-    alt="Udai Batta's GitHub statistics"
-    src="https://pixel-profile.vercel.app/api/github-stats?username=UdaiBatta&theme=crt&include_all_commits=true"
-  />
-</picture>
 
 ## `> whoami`
 
@@ -71,18 +54,47 @@ location: Patiala, Punjab, India
 
 ## `> featured_projects`
 
-<img width="100%" src="./assets/project-showcase.svg" alt="Pixel-style showcase of Udai Batta's featured projects" />
+<div align="center">
+
+<a href="https://github.com/UdaiBatta/LedgerLens">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=LedgerLens&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="LedgerLens repository" />
+</a>
+<a href="https://github.com/UdaiBatta/monika-eng-CRM">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=monika-eng-CRM&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="Monika ERP and CRM repository" />
+</a>
+<a href="https://github.com/UdaiBatta/API-automation-testing">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=API-automation-testing&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="API automation testing repository" />
+</a>
+
+<br />
+
+<a href="https://github.com/UdaiBatta/monika-engineers">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=monika-engineers&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="Monika Engineers repository" />
+</a>
+<a href="https://github.com/UdaiBatta/sign_language_detector">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=sign_language_detector&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="ASL Detector repository" />
+</a>
+<a href="https://github.com/UdaiBatta/udai-portfolio">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=udai-portfolio&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="Portfolio repository" />
+</a>
+
+<br /><br />
+
+<sub>More builds: <a href="https://github.com/UdaiBatta/CLI-Binance-Bot">CLI Binance Bot</a> - <a href="https://github.com/UdaiBatta/ArchiAI">ArchiAI</a> - <a href="https://github.com/UdaiBatta/Skylearn-LMS">Skylearn LMS</a> - <a href="https://github.com/UdaiBatta/FLUNKER-Django-social-media">FLUNKER</a></sub>
+
+</div>
+
+## `> telemetry`
 
 <div align="center">
 
-[LedgerLens](https://github.com/UdaiBatta/LedgerLens) ·
-[Monika ERP/CRM](https://github.com/UdaiBatta/monika-eng-CRM) ·
-[Shunya API Testing](https://github.com/UdaiBatta/API-automation-testing) ·
-[Monika Engineers](https://github.com/UdaiBatta/monika-engineers) ·
-[ASL Detector](https://github.com/UdaiBatta/sign_language_detector) ·
-[Portfolio](https://github.com/UdaiBatta/udai-portfolio)
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=UdaiBatta&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=22C55E&text_color=C9D1D9" alt="GitHub stars, commits, pull requests, and issues" />
+&nbsp;
+<img height="185" src="https://streak-stats.demolab.com?user=UdaiBatta&hide_border=true&background=0D1117&border=30363D&stroke=00D9FF&ring=7C3AED&fire=22C55E&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
-<sub>More builds: <a href="https://github.com/UdaiBatta/CLI-Binance-Bot">CLI Binance Bot</a> · <a href="https://github.com/UdaiBatta/ArchiAI">ArchiAI</a> · <a href="https://github.com/UdaiBatta/Skylearn-LMS">Skylearn LMS</a> · <a href="https://github.com/UdaiBatta/FLUNKER-Django-social-media">FLUNKER</a></sub>
+<br /><br />
+
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdaiBatta&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Most-used languages" />
 
 </div>
 
@@ -99,9 +111,9 @@ location: Patiala, Punjab, India
 ## `> contribution_snake`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UdaiBatta/UdaiBatta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UdaiBatta/UdaiBatta/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/UdaiBatta/UdaiBatta/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UdaiBatta/UdaiBatta/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UdaiBatta/UdaiBatta/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/UdaiBatta/UdaiBatta/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <div align="center">
