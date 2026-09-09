@@ -56,31 +56,24 @@ location: Patiala, Punjab, India
 
 <div align="center">
 
-<a href="https://github.com/UdaiBatta/LedgerLens">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=LedgerLens&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="LedgerLens repository" />
-</a>
-<a href="https://github.com/UdaiBatta/monika-eng-CRM">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=monika-eng-CRM&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="Monika ERP and CRM repository" />
-</a>
-<a href="https://github.com/UdaiBatta/API-automation-testing">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=API-automation-testing&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="API automation testing repository" />
-</a>
-
-<br />
-
-<a href="https://github.com/UdaiBatta/monika-engineers">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=monika-engineers&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="Monika Engineers repository" />
-</a>
-<a href="https://github.com/UdaiBatta/sign_language_detector">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=sign_language_detector&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="ASL Detector repository" />
-</a>
-<a href="https://github.com/UdaiBatta/udai-portfolio">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=UdaiBatta&repo=udai-portfolio&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=7C3AED" alt="Portfolio repository" />
-</a>
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/UdaiBatta/LedgerLens"><img width="100%" src="./assets/project-cards/ledgerlens.svg" alt="LedgerLens repository" /></a></td>
+    <td width="50%"><a href="https://github.com/UdaiBatta/monika-eng-CRM"><img width="100%" src="./assets/project-cards/monika-erp.svg" alt="Monika ERP and CRM repository" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UdaiBatta/API-automation-testing"><img width="100%" src="./assets/project-cards/shunya-testing.svg" alt="Shunya API testing repository" /></a></td>
+    <td><a href="https://github.com/UdaiBatta/monika-engineers"><img width="100%" src="./assets/project-cards/monika-engineers.svg" alt="Monika Engineers repository" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/UdaiBatta/sign_language_detector"><img width="100%" src="./assets/project-cards/asl-detector.svg" alt="ASL Detector repository" /></a></td>
+    <td><a href="https://github.com/UdaiBatta/ArchiAI"><img width="100%" src="./assets/project-cards/archiai.svg" alt="ArchiAI repository" /></a></td>
+  </tr>
+</table>
 
 <br /><br />
 
-<sub>More builds: <a href="https://github.com/UdaiBatta/CLI-Binance-Bot">CLI Binance Bot</a> - <a href="https://github.com/UdaiBatta/ArchiAI">ArchiAI</a> - <a href="https://github.com/UdaiBatta/Skylearn-LMS">Skylearn LMS</a> - <a href="https://github.com/UdaiBatta/FLUNKER-Django-social-media">FLUNKER</a></sub>
+<sub>More builds: <a href="https://github.com/UdaiBatta/CLI-Binance-Bot">CLI Binance Bot</a> - <a href="https://github.com/UdaiBatta/udai-portfolio">Portfolio</a> - <a href="https://github.com/UdaiBatta/Skylearn-LMS">SkyLearn LMS</a> - <a href="https://github.com/UdaiBatta/FLUNKER-Django-social-media">FLUNKER</a></sub>
 
 </div>
 

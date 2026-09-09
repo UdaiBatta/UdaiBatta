@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="240" viewBox="0 0 500 240" role="img" aria-label="Monika Engineers project card">
+  <rect width="500" height="240" fill="#080c16"/><rect x="1" y="1" width="498" height="238" fill="none" stroke="#8b98ac" stroke-width="1"/>
+  <rect x="28" y="27" width="8" height="8" fill="#00d9ff"/><text x="48" y="37" class="title">Monika Engineers</text>
+  <line x1="28" y1="53" x2="28" y2="78" stroke="#dbeafe" stroke-width="2"/><text x="43" y="68" class="sub">Industrial product web experience</text>
+  <text x="28" y="87" class="stack">React | JavaScript | Vite</text><text x="28" y="102" class="body">Responsive company website for industrial automation</text><text x="28" y="120" class="body">products, catalogue discovery and services.</text><rect x="28" y="174" width="53" height="24" rx="4" fill="#1b2940"/><text x="54.5" y="190" text-anchor="middle" class="tag">React</text><rect x="89" y="174" width="88" height="24" rx="4" fill="#1b2940"/><text x="133.0" y="190" text-anchor="middle" class="tag">JavaScript</text><rect x="185" y="174" width="46" height="24" rx="4" fill="#1b2940"/><text x="208.0" y="190" text-anchor="middle" class="tag">Vite</text>
+  <rect x="28" y="210" width="83" height="20" rx="3" fill="#00d9ff"/><text x="69.5" y="224" text-anchor="middle" class="button">View Repo</text>
+  <style>.title{fill:#f8fafc;font:700 20px Arial,sans-serif}.sub{fill:#e2e8f0;font:13px Arial,sans-serif}.stack{fill:#00d9ff;font:11px ui-monospace,Consolas,monospace}.body{fill:#cbd5e1;font:13px Arial,sans-serif}.tag{fill:#eef6ff;font:10px ui-monospace,Consolas,monospace}.button{fill:#061019;font:700 10px Arial,sans-serif}</style>
+</svg>
