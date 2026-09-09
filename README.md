@@ -22,32 +22,17 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 ```text
-udai@patiala:~$ whoami
-> backend dev · APIs, full-stack apps & data systems
-> python & django by day, react when i have to
-> exploring AI workflows, trading & architecture
-> BE @ Thapar Institute (2024–2027) 🇮🇳
+┌─ udai@patiala ───────────────────────────────────┐
+│  role      → backend dev · python / django       │
+│  year      → sophomore @ thapar (2024–2027)      │
+│  location  → patiala, punjab 🇮🇳                  │
+│  focus     → trading bots · AI workflows         │
+│  learning  → system design · celery · redis      │
+└──────────────────────────────────────────────────┘
 ```
 
-</td>
-<td width="45%" valign="top">
-
-📌 **Patiala, Punjab**  
-🎓 **Sophomore @ Thapar**  
-🔧 **Python · Django · REST**  
-🤖 **Trading bots & AI on the side**  
-📚 **Async Python + system design rn**  
-
-</td>
-</tr>
-</table>
-
-I learn by building end-to-end — I don't just ship the API, I also write the bot that hammers it, the schema that survives it, and the backtest that proves it was worth shipping.
+I build end-to-end — not just the API, but the schema that survives it and the backtest that proves it was worth shipping. Lately most of my time goes into Django services, sketching trading systems before they become code, and chasing the moment a 300ms endpoint drops to 90ms. When I'm not coding, I'm reading someone else's architecture writeup or trying to make my crypto bot print money instead of burning it.
 
 ---
 
