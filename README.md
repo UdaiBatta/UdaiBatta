@@ -24,9 +24,19 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=UdaiBatta&theme=crt&include_all_commits=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=UdaiBatta&theme=summer">
-  <img width="100%" alt="Udai Batta's pixel profile statistics" src="https://pixel-profile.vercel.app/api/github-stats?username=UdaiBatta&theme=crt&include_all_commits=true">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=UdaiBatta&theme=crt&include_all_commits=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://pixel-profile.vercel.app/api/github-stats?username=UdaiBatta&theme=summer"
+  />
+  <img
+    width="100%"
+    alt="Udai Batta's GitHub statistics"
+    src="https://pixel-profile.vercel.app/api/github-stats?username=UdaiBatta&theme=crt&include_all_commits=true"
+  />
 </picture>
 
 ## `> whoami`
